@@ -1,0 +1,57 @@
+# milet – Goddess
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I've been talking to myself
+I don't know where I'm at
+Lie to me, undress me
+Are you happy now?
+I want this pain to be gone
+But nobody can help me
+The endless fear will grow
+Yeah I'm the storm
+that never dies
+So
+You'll never know this
+You'll never know this
+You'll never know how hard I tried
+Tell me that this is not the end
+Everything means nothing when you're not here
+Sorry I'm goddess who waned to be loved
+Dance in the darkness
+Fall into sadness
+Now will you fix me up?
+I gave you my whole life
+なぞっているこのヒビを
+I want this pain to be gone
+But nobody can help me
+The endless fear will grow
+Yeah I'm the storm
+that never dies
+So
+You'll never know this
+You'll never know this
+You'll never know how hard I tried
+Tell me that this is not the end
+Everything means nothing when you're not here
+Sorry I'm goddess who waned to be loved
+how many times will I try to find peace
+どこまで行っても
+You can not touch me
+'Cause I'm so icy babe
+私はひとり
+how many times will I try to find peace
+どこまで行っても
+You can not touch me
+'Cause I'm so icy
+ただ愛されたい
+You'll never know this
+You'll never know this
+You'll never know how hard I tried
+Tell me that this is not the end
+Everything means nothing when you're not here
+Sorry I'm goddess who waned to be loved
+Sorry I'm goddess
+I waned to be loved
+```
