@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Goddess",
+  "base_artist": "milet",
+  "createdAt": "2025-12-09T14:31:27.190330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Goddess on a Highway",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/01_Goddess_on_a_Highway_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Goddess On a Hiway",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/02_Goddess_On_a_Hiway_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Goddess on the Hiway",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/03_Goddess_on_the_Hiway_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tiny Goddess",
+      "artist": "Tim Andrews",
+      "has_synced": false,
+      "path": "select/04_Tiny_Goddess_Tim_Andrews.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Goddess In The Doorway",
+      "artist": "Mick Jagger",
+      "has_synced": true,
+      "path": "select/05_Goddess_In_The_Doorway_Mick_Jagger.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Goddess",
+      "artist": "BANKS",
+      "has_synced": true,
+      "path": "select/06_Goddess_BANKS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let The Cool Goddess Rust Away",
+      "artist": "Clap Your Hands Say Yeah",
+      "has_synced": true,
+      "path": "select/07_Let_The_Cool_Goddess_Rust_Away_Clap_Your_Hands_Say_Yeah.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Green Goddess",
+      "artist": "British Sea Power",
+      "has_synced": true,
+      "path": "select/08_Green_Goddess_British_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Green Goddess",
+      "artist": "Sea Power",
+      "has_synced": true,
+      "path": "select/09_Green_Goddess_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Goddess Of Love",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": true,
+      "path": "select/10_Goddess_Of_Love_Orchestral_Manoeuvres_In_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Goddess Of Love",
+      "artist": "Orchestral Manoeuvres in the Dark",
+      "has_synced": true,
+      "path": "select/11_Goddess_Of_Love_Orchestral_Manoeuvres_in_the_Dark.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Goddess of Love",
+      "artist": "Bryan Ferry",
+      "has_synced": true,
+      "path": "select/12_Goddess_of_Love_Bryan_Ferry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Goddess (Of The Sad Man)",
+      "artist": "Amorphis",
+      "has_synced": true,
+      "path": "select/13_Goddess_(Of_The_Sad_Man)_Amorphis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Black Goddess Rises",
+      "artist": "Cradle of Filth",
+      "has_synced": true,
+      "path": "select/14_The_Black_Goddess_Rises_Cradle_of_Filth.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Goddess",
+      "artist": "Candlemass",
+      "has_synced": false,
+      "path": "select/15_Goddess_Candlemass.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Goddess",
+      "artist": "Moonlight Haze",
+      "has_synced": true,
+      "path": "select/16_Goddess_Moonlight_Haze.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Goddess of the Sea",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/17_Goddess_of_the_Sea_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Goddess of the Sea : Goddess of the Sea",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/18_Goddess_of_the_Sea___Goddess_of_the_Sea_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Silent Goddess",
+      "artist": "Kamelot",
+      "has_synced": false,
+      "path": "select/19_Silent_Goddess_Kamelot.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Goddess",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_Goddess_milet.txt"
+    }
+  ]
+}
